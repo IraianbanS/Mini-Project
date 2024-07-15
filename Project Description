@@ -6,3 +6,5 @@ The aim of this project to detect corroded parts which can't be detected by manu
 2) Roughness Analysis : This process involves analyzing the image based on the roughness with help metrics like probability threshold and gaussian factor. By setting these two metrics we have analyzed the images and depicted the output.
 3) Color Analysis : This process involves analyzing the image based on its color. For this we have used certain metrics hue, saturation to detect the color of the corroded image and then we have classified it.
 4) Combination of Roughness and Color analysis : This process is the combination of the above two steps which yielded higher results.
+
+This is the overview of the project.
