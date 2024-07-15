@@ -1,0 +1,8 @@
+Project Name: Detection of Corrosion Using Image Processing
+Tools Used: MATLAB
+Project Description:
+The aim of this project to detect corroded parts which can't be detected by manual inspection. For this project we have used some real time images which are taken from the internet and in that we have filtered only certain images which contains a mix of corroded and non corroded images. This project involves four processes:
+1) Visual Inspection : This process involves seeing the images visuallly through human eyes and classify them as corroded and non-corroded.
+2) Roughness Analysis : This process involves analyzing the image based on the roughness with help metrics like probability threshold and gaussian factor. By setting these two metrics we have analyzed the images and depicted the output.
+3) Color Analysis : This process involves analyzing the image based on its color. For this we have used certain metrics hue, saturation to detect the color of the corroded image and then we have classified it.
+4) Combination of Roughness and Color analysis : This process is the combination of the above two steps which yielded higher results.
